@@ -1,4 +1,4 @@
 module.exports = {
-    TOKEN: '33333',
+    TOKEN: '33kj333',
     GROUP_ID: '333333'
 }
