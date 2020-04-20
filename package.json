@@ -1,0 +1,22 @@
+{
+  "name": "vk-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serg8master8/vk-bot.git"
+  },
+  "author": "Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serg8master8/vk-bot/issues"
+  },
+  "homepage": "https://github.com/serg8master8/vk-bot#readme",
+  "dependencies": {
+    "node-vk-bot-api": "^3.3.4"
+  }
+}
