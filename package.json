@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/serg8master8/vk-bot#readme",
   "dependencies": {
-    "node-vk-bot-api": "^3.3.4"
+    "node-vk-bot-api": "^3.3.4",
+    "nodemon": "^2.0.3"
   }
 }
